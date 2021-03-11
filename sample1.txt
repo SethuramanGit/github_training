@@ -1,1 +1,1 @@
-to check the push authentication
+login authenticity while using push
